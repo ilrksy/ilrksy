@@ -119,9 +119,7 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/ilrksy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQzdzJwZDRid2U3bGZ5aGluZnZqZWV0cHplajZ3N290YTVjN2ZjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkqefnFjn2MWVl6xvq/giphy.gif" alt="Bottom Line" width="100%" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGw0Yml2dnNvMTZueTR4MmRvOTFsOXI0OG0xaXo4emY0OGpzb3ByaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3O4r4NZkFIbSLINbX2/giphy.gif" alt="Bottom Line" width="100%" />
 </div>
 
