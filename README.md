@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=MUHAMMAD%20AIDIL%20ASYRAF&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Future%20Bilionaire&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm MUHAMMAD AIDIL ASYRAF</h1>
+<h3 align="center">Future Bilionaire</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ilrksy">
@@ -95,9 +96,6 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=ilrksy)
-<br/>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.instagram.com/ilrksy._">
@@ -113,6 +111,9 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
+
+## 💬 Quote
+> Keep chasing.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
