@@ -12,7 +12,7 @@
 ## 📌 About Me
 I am a high school student from Malaysia with a self-taught background in software engineering. I started from scratch, without a college degree or bootcamp experience, and built my skills through hands-on learning, real projects, and consistent practice.
 
-Over time, I have designed, optimized, and deployed more than 20 live, responsive web applications. My work reflects a strong interest in performance, cybersecurity, and thoughtful visual design, with a focus on building websites that are both functional and polished. I enjoy turning ideas into practical digital products and continuously improving with every project I take on.
+Over time, I have designed, optimized, and deployed more than 20+ live, responsive web applications. My work reflects a strong interest in performance, cybersecurity, and thoughtful visual design, with a focus on building websites that are both functional and polished. I enjoy turning ideas into practical digital products and continuously improving with every project I take on.
 
 
 
