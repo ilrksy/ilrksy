@@ -14,11 +14,11 @@
 
 
 ## 🧠 My Focus Areas
--Web Development
--Full-Stack Development
--Website UI/UX Design
--Web Architecture / System Design
--Portfolio Project Building
+ -Web Development
+ -Full-Stack Development
+ -Website UI/UX Design
+ -Web Architecture / System Design
+ -Portfolio Project Building
 
 
 ## 📊 GitHub Stats & Trophies
