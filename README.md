@@ -10,7 +10,7 @@
 <img src="" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I am a high school student from Malaysia who taught myself software engineering from the ground up. Without a college degree or bootcamp, I have pushed my limits by building, optimizing, and deploying more than 20 live, responsive web applications with a strong focus on interactive experiences, cybersecurity, and visual design.
+- I am a high school student from Malaysia with a self-taught background in software engineering. Without a college degree or bootcamp experience, I have built, optimized, and deployed more than 20 live, responsive web applications, with a strong focus on performance, cybersecurity, and thoughtful visual design.
 
 
 ## 🧠 My Focus Areas
