@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE2ODV2cXcxN3docWtvdnNkNmhsamF2ZTA2em1kYjI5amp4c2ljNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="Banner" width="100%" />
+<img src="" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I am a high school student from Malaysia who self-taught software engineering from scratch. Without college degrees or bootcamps, I challenge my boundaries by programming, optimizing, and deploying 20+ live, responsive web applications rich in native physics, cybersecurity, and visual design.
