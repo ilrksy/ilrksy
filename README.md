@@ -16,7 +16,6 @@
 ## 🧠 My Focus Areas
 - Web Development
 - Landing page Maker
-- Ai Expert
 - Fullstack Web Designer
 - API expert
 
