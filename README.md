@@ -10,14 +10,15 @@
 <img src="" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I am a high school student from Malaysia who self-taught software engineering from scratch. Without college degrees or bootcamps, I challenge my boundaries by programming, optimizing, and deploying 20+ live, responsive web applications rich in native physics, cybersecurity, and visual design.
+- I am a high school student from Malaysia who taught myself software engineering from the ground up. Without a college degree or bootcamp, I have pushed my limits by building, optimizing, and deploying more than 20 live, responsive web applications with a strong focus on interactive experiences, cybersecurity, and visual design.
 
 
 ## 🧠 My Focus Areas
-- Web Development
-- Landing page Maker
-- Fullstack Web Designer
-- API expert
+-Web Development
+-Full-Stack Development
+-Website UI/UX Design
+-Web Architecture / System Design
+-Portfolio Project Building
 
 
 ## 📊 GitHub Stats & Trophies
