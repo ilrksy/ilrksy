@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/736x/65/f1/d0/65f1d023e5cc380a1b4aee8610bbf2c6.jpg" alt="Banner" width="100%" />
+<img src="[https://i.pinimg.com/736x/65/f1/d0/65f1d023e5cc380a1b4aee8610bbf2c6.jpg](https://cdn.phototourl.com/free/2026-07-26-3ea7ff15-6cb0-4793-9066-5d6008263554.jpg)" alt="Banner" width="100%" />
 
 ## 📌 About Me
 I am a high school student from Malaysia with a self-taught background in software engineering. I started from scratch, without a college degree or bootcamp experience, and built my skills through hands-on learning, real projects, and consistent practice.
