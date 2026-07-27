@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm MUHAMMAD AIDIL ASYRAF</h1>
-<h3 align="center">Future Trilionaireeeeeeeeeeeee</h3>
+<h3 align="center">Future Trilionaire</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ilrksy">
